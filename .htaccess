@@ -1,4 +1,0 @@
-AuthName "Login"
-AuthType Basic
-AuthUserFile /www.synesty.ch/.htpasswd
-require valid-user
